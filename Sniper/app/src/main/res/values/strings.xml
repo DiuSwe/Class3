@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sniper</string>
+
+    <string-array name="bangladesh">
+        <item>Bangladesh</item>
+        <item>INdia</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>UK</item>
+        <item>US</item>
+
+
+    </string-array>
+</resources>
